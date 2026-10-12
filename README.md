@@ -114,7 +114,7 @@ For `n = 6`:
 This project demonstrates how Meru-Prastara can be represented as Pascal's Triangle and generated using Dynamic Programming. By storing and reusing previously calculated rows, it illustrates recurrence relations, nested lists, algorithm design, and computational complexity.
 
 ## Author
-**Juned Shaikh**  
+**Nandini Bisoyi**  
 B.Sc. Computer Science — Semester V  
 Smt. Devkiba Mohansinhji Chauhan College of Commerce and Science, Silvassa  
 Academic Year: 2026–2027
